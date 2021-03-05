@@ -1,5 +1,5 @@
 #!/bin/bash
-# Toggle the bluetooth connection with a sepcified device on/off.
+# Toggle the bluetooth connection with a sepcified device on/off. Ubuntu 20.04.
 
 
 # Device ID. You can use the command `bluetoothctl devices` to find out which ID you want to target.
